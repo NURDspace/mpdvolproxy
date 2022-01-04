@@ -1,0 +1,1 @@
+Terrible thing that sits between mpd as a proxy, intercepts the volume command and uses it to adjust the volume of a pulse sink instead.
